@@ -15,7 +15,7 @@ WebShopRedMangoAPI Donet6
 - Reactjs/Typescript
 - Redux Tookit/ Redux Saga Midleware
 - Axios
-- Entity Framework Core (Identity, FluentAPI)
+- Entity Framework Core (Identity)
   
 ***Architecture:
 - Repository Pattern
