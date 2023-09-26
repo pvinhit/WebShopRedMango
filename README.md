@@ -8,7 +8,6 @@ WebShopRedMangoAPI_Donet6_Reactjs_Redux
 - Visual Studio Code
 - Postgresql
 - Git/Github/Gitlab
-- Docker
 
 ***Technology:
 - .NET core 6.0
