@@ -1,6 +1,6 @@
 # WebShopRedMango
 WebShopRedMangoAPI Donet6
-I learn Cource Udemy .NET 6.0 API
+- I learn Cource Udemy .NET 6.0 API
 
 ***Tools:
 - Microsoft SQL Server Express 2022
